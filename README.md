@@ -12,3 +12,6 @@ Algorithm Overview:
 4. create new clusters with remaining points
 5. Merge new clusters from step 4 with any of the existing clusters
 6. Repeat steps 2-5 until all points are examined
+
+
+![alt BFR](https://github.com/madamalarevanth/BFR-Algorithm/blob/main/BFR.jpeg)
